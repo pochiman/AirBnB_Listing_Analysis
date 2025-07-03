@@ -23,8 +23,7 @@ NOTE: Prices are in local currency
 1. Can you spot any major differences in the Airbnb market between cities?
 2. Which attributes have the biggest influence in price?
 3. Are you able to identify any trends or seasonality in the review data?
-4. 
-Which city offers a better value for travel?
+4. Which city offers a better value for travel?
 
 #### Objective 1: Profile & QA the data
 Your first objective is to read in the AirBnB listings data, calculate basic profiling metrics, change column datatypes as necessary, and filter down to only Paris Listings.
